@@ -1,4 +1,4 @@
-//given character a digit or not
+//given character a digit or not ?
 
 #include<stdio.h>
 #include<conio.h>
